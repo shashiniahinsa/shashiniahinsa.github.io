@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.8765b8c3.css",
-    "main.js": "/static/js/main.d2ac1bc2.js",
+    "main.css": "/static/css/main.b530765a.css",
+    "main.js": "/static/js/main.db682ffc.js",
     "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
     "static/media/libmgmt.png": "/static/media/libmgmt.e7766c6736487dc322d0.png",
     "static/media/lostandfound.png": "/static/media/lostandfound.299f56ad6ef565f73631.png",
     "static/media/notesapp.png": "/static/media/notesapp.2a110d29e49734438699.png",
     "static/media/studentmgmt.png": "/static/media/studentmgmt.1a34a3b33a01f8bf7fee.png",
     "static/media/weather.png": "/static/media/weather.2c14c7ddee6ab66feb25.png",
+    "static/media/PM.jpeg": "/static/media/PM.47722bededd5b59693df.jpeg",
     "static/media/CRS.png": "/static/media/CRS.ec0218b4e832bd323de2.png",
     "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/IMG (1).jpg": "/static/media/IMG (1).45134139719b5e2337c0.jpg",
     "index.html": "/index.html",
-    "main.8765b8c3.css.map": "/static/css/main.8765b8c3.css.map",
-    "main.d2ac1bc2.js.map": "/static/js/main.d2ac1bc2.js.map",
+    "main.b530765a.css.map": "/static/css/main.b530765a.css.map",
+    "main.db682ffc.js.map": "/static/js/main.db682ffc.js.map",
     "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8765b8c3.css",
-    "static/js/main.d2ac1bc2.js"
+    "static/css/main.b530765a.css",
+    "static/js/main.db682ffc.js"
   ]
 }
